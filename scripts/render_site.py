@@ -106,6 +106,7 @@ def head(title, description, canonical, depth, og_image=OG_IMAGE, og_type="websi
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
+<meta name="google-site-verification" content="9De_NfircjheET1TjKo_9GFLSNpAY8Dbw97HMYIF-8o" />
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{esc(title)}</title>
