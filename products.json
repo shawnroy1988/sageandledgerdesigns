@@ -1,0 +1,484 @@
+[
+  {
+    "folder": "01-printable-planner",
+    "title": "Undated Printable Planner, Minimalist Planner PDF, Weekly Monthly Daily Planner Pages, A4 US Letter, Hyperlinked Index, Instant Download",
+    "short_title": "Undated Printable Planner",
+    "price": "$6.50",
+    "etsy_url": "https://www.etsy.com/listing/4605309683/undated-printable-planner-minimalist",
+    "category": "Planners",
+    "image": "images/01-printable-planner.webp",
+    "featured": false
+  },
+  {
+    "folder": "02-excel-budget",
+    "title": "Monthly Budget Spreadsheet Excel Template, Budget Tracker with Dashboard, 50/30/20, Savings Goals, Debt Payoff Tracker, Finance Planner",
+    "short_title": "Monthly Budget Spreadsheet",
+    "price": "$9.50",
+    "etsy_url": "https://www.etsy.com/listing/4605330540/monthly-budget-spreadsheet-excel",
+    "category": "Excel & Sheets Templates",
+    "image": "images/02-excel-budget.webp",
+    "featured": false
+  },
+  {
+    "folder": "03-powerbi-kit",
+    "title": "Power BI Sales Dashboard Kit, DAX Measures, Theme JSON, Sample Data Model Excel CSV, Setup Guide PDF, Build Your Own Dashboard, No PBIX",
+    "short_title": "Power BI Sales Dashboard Kit",
+    "price": "$9.99",
+    "etsy_url": "https://www.etsy.com/listing/4605331222/power-bi-sales-dashboard-kit-dax",
+    "category": "Power BI",
+    "image": "images/03-powerbi-kit.webp",
+    "featured": false
+  },
+  {
+    "folder": "04-boho-arches-wall-art",
+    "title": "Boho Arches Wall Art Set of 3, Terracotta Sage Printable Wall Art, Mid Century Sun Prints, Neutral Living Room Decor, Digital Download",
+    "short_title": "Boho Arches Wall Art Set of 3",
+    "price": "$8.50",
+    "etsy_url": "https://www.etsy.com/listing/4605312125/boho-arches-wall-art-set-of-3-terracotta",
+    "category": "Wall Art",
+    "image": "images/04-boho-arches-wall-art.webp",
+    "featured": false
+  },
+  {
+    "folder": "05-botanical-wall-art",
+    "title": "Sage Green Botanical Print Set of 3, Eucalyptus Olive Branch Fern Printable Wall Art, Minimalist Plant Prints, Digital Download",
+    "short_title": "Sage Botanical Print Set of 3",
+    "price": "$8.50",
+    "etsy_url": "https://www.etsy.com/listing/4605312561/sage-green-botanical-print-set-of-3",
+    "category": "Wall Art",
+    "image": "images/05-botanical-wall-art.webp",
+    "featured": false
+  },
+  {
+    "folder": "06-quote-wall-art",
+    "title": "Quote Print Set of 3, Good Things Take Time, Breathe In Begin Again, Slow Mornings Printable Wall Art, Typography Decor Download",
+    "short_title": "Quote Print Set of 3",
+    "price": "$7.50",
+    "etsy_url": "https://www.etsy.com/listing/4605313029/quote-print-set-of-3-good-things-take",
+    "category": "Wall Art",
+    "image": "images/06-quote-wall-art.webp",
+    "featured": false
+  },
+  {
+    "folder": "07-mid-century-wall-art",
+    "title": "Mid Century Modern Geometric Wall Art Set of 3, Bauhaus Style Shapes Printable Prints, Terracotta Mustard Sage, Digital Download",
+    "short_title": "Mid Century Geometric Wall Art Set of 3",
+    "price": "$8.50",
+    "etsy_url": "https://www.etsy.com/listing/4605313533/mid-century-modern-geometric-wall-art",
+    "category": "Wall Art",
+    "image": "images/07-mid-century-wall-art.webp",
+    "featured": false
+  },
+  {
+    "folder": "08-2027-planner",
+    "title": "2027 Planner Printable, Dated Monthly and Weekly Planner Pages, Minimalist 2027 Calendar, Letter A4, Monday Sunday Start, PDF Download",
+    "short_title": "2027 Printable Planner",
+    "price": "$7.50",
+    "etsy_url": "https://www.etsy.com/listing/4605314597",
+    "category": "Planners",
+    "image": "images/08-2027-planner.webp",
+    "featured": false
+  },
+  {
+    "folder": "09-budget-planner",
+    "title": "Printable Budget Planner Bundle, Monthly Budget, Bill Tracker, Debt Payoff, Savings Tracker, Sinking Funds, Finance Planner PDF",
+    "short_title": "Printable Budget Planner Bundle",
+    "price": "$6.50",
+    "etsy_url": "https://www.etsy.com/listing/4605315089",
+    "category": "Planners",
+    "image": "images/09-budget-planner.webp",
+    "featured": false
+  },
+  {
+    "folder": "10-meal-planner",
+    "title": "Printable Meal Planner and Grocery List, Weekly Menu Planner, Recipe Card, Pantry Inventory, Meal Prep Planner, Minimalist PDF",
+    "short_title": "Meal Planner & Grocery List",
+    "price": "$4.50",
+    "etsy_url": "https://www.etsy.com/listing/4605315561",
+    "category": "Planners",
+    "image": "images/10-meal-planner.webp",
+    "featured": false
+  },
+  {
+    "folder": "11-habit-tracker",
+    "title": "Printable Habit Tracker Bundle, Monthly Habit Tracker, Year in Pixels Mood Tracker, Water, Sleep and Reading Log, Minimalist PDF",
+    "short_title": "Habit Tracker Bundle",
+    "price": "$4.50",
+    "etsy_url": "https://www.etsy.com/listing/4605315935",
+    "category": "Planners",
+    "image": "images/11-habit-tracker.webp",
+    "featured": false
+  },
+  {
+    "folder": "12-fitness-planner",
+    "title": "Printable Fitness Planner, Workout Log, Weekly Workout Plan, Body Measurement Tracker, Meal and Macro Log, Gym Journal PDF",
+    "short_title": "Fitness Planner & Workout Log",
+    "price": "$5.50",
+    "etsy_url": "https://www.etsy.com/listing/4605335980",
+    "category": "Planners",
+    "image": "images/12-fitness-planner.webp",
+    "featured": false
+  },
+  {
+    "folder": "13-wedding-planner",
+    "title": "Printable Wedding Planner Book, Wedding Budget, Guest List, Checklist, Seating Chart, Vendor Contacts, Minimalist Wedding Binder PDF",
+    "short_title": "Wedding Planner Book",
+    "price": "$7.50",
+    "etsy_url": "https://www.etsy.com/listing/4605336414",
+    "category": "Planners",
+    "image": "images/13-wedding-planner.webp",
+    "featured": false
+  },
+  {
+    "folder": "14-teacher-planner",
+    "title": "Printable Teacher Planner, Undated Lesson Plan, Attendance Sheet, Gradebook, Seating Chart, Parent Contact Log, Teacher Binder PDF",
+    "short_title": "Teacher Planner",
+    "price": "$6.50",
+    "etsy_url": "https://www.etsy.com/listing/4605317121",
+    "category": "Planners",
+    "image": "images/14-teacher-planner.webp",
+    "featured": false
+  },
+  {
+    "folder": "15-debt-snowball",
+    "title": "Debt Snowball & Avalanche Calculator Excel Template, Debt Payoff Planner Spreadsheet, Payoff Date & Interest Tracker, Instant Download",
+    "short_title": "Debt Snowball & Avalanche Calculator",
+    "price": "$7.50",
+    "etsy_url": "https://www.etsy.com/listing/4605337312",
+    "category": "Excel & Sheets Templates",
+    "image": "images/15-debt-snowball.webp",
+    "featured": false
+  },
+  {
+    "folder": "16-savings-challenge",
+    "title": "52 Week Savings Challenge & 100 Envelope Challenge Excel Tracker, Savings Goal Spreadsheet with Progress Bars, Instant Download",
+    "short_title": "52 Week & 100 Envelope Savings Challenge",
+    "price": "$5.50",
+    "etsy_url": "https://www.etsy.com/listing/4605318883",
+    "category": "Excel & Sheets Templates",
+    "image": "images/16-savings-challenge.webp",
+    "featured": false
+  },
+  {
+    "folder": "17-sinking-funds",
+    "title": "Sinking Funds Tracker Excel Template, Savings Goals Spreadsheet, Monthly Savings Calculator for Irregular Expenses, Instant Download",
+    "short_title": "Sinking Funds Tracker",
+    "price": "$6.50",
+    "etsy_url": "https://www.etsy.com/listing/4605339016",
+    "category": "Excel & Sheets Templates",
+    "image": "images/17-sinking-funds.webp",
+    "featured": false
+  },
+  {
+    "folder": "18-small-business-pl",
+    "title": "Small Business Profit and Loss Excel Template, Income & Expense Tracker Spreadsheet, Monthly P&L Statement, Bookkeeping Dashboard",
+    "short_title": "Small Business Profit & Loss Tracker",
+    "price": "$9.50",
+    "etsy_url": "https://www.etsy.com/listing/4605320141",
+    "category": "Small Business Templates",
+    "image": "images/18-small-business-pl.webp",
+    "featured": false
+  },
+  {
+    "folder": "19-invoice-template",
+    "title": "Invoice Template Excel, Printable Invoice with Client List & Payment Tracker, Small Business Invoice Spreadsheet, Instant Download",
+    "short_title": "Invoice Template & Payment Tracker",
+    "price": "$6.50",
+    "etsy_url": "https://www.etsy.com/listing/4605340084",
+    "category": "Small Business Templates",
+    "image": "images/19-invoice-template.webp",
+    "featured": false
+  },
+  {
+    "folder": "20-wedding-budget",
+    "title": "Wedding Budget Planner Excel Spreadsheet, Wedding Budget Template with Guest List, RSVP & Vendor Payment Tracker, Instant Download",
+    "short_title": "Wedding Budget Spreadsheet",
+    "price": "$7.50",
+    "etsy_url": "https://www.etsy.com/listing/4605340466",
+    "category": "Excel & Sheets Templates",
+    "image": "images/20-wedding-budget.webp",
+    "featured": false
+  },
+  {
+    "folder": "21-net-worth-tracker",
+    "title": "Net Worth Tracker Excel Template, Assets & Debts Spreadsheet, Monthly Net Worth Chart, Personal Finance Dashboard, Instant Download",
+    "short_title": "Net Worth Tracker",
+    "price": "$6.50",
+    "etsy_url": "https://www.etsy.com/listing/4605321247",
+    "category": "Excel & Sheets Templates",
+    "image": "images/21-net-worth-tracker.webp",
+    "featured": false
+  },
+  {
+    "folder": "22-powerbi-personal-finance",
+    "title": "Power BI Personal Finance Dashboard Kit, Budget Tracker Data Model in Excel, DAX Measures, Theme, Setup Guide PDF, Build It Yourself",
+    "short_title": "Power BI Personal Finance Dashboard Kit",
+    "price": "$11.00",
+    "etsy_url": "https://www.etsy.com/listing/4605321645",
+    "category": "Power BI",
+    "image": "images/22-powerbi-personal-finance.webp",
+    "featured": false
+  },
+  {
+    "folder": "23-powerbi-marketing-kpi",
+    "title": "Power BI Marketing KPI Dashboard Kit, Campaign Data Model in Excel, ROAS & Ad Spend Measures, Theme, Setup Guide, Build It Yourself",
+    "short_title": "Power BI Marketing KPI Dashboard Kit",
+    "price": "$12.50",
+    "etsy_url": "https://www.etsy.com/listing/4605341424",
+    "category": "Power BI",
+    "image": "images/23-powerbi-marketing-kpi.webp",
+    "featured": false
+  },
+  {
+    "folder": "24-ultimate-budget-bundle",
+    "title": "Ultimate Budget Bundle, 5 Excel Budget Templates & Printable Budget Planner, Debt Snowball, Sinking Funds, Savings, Net Worth Tracker",
+    "short_title": "Ultimate Budget Bundle",
+    "price": "$19.50",
+    "etsy_url": "https://www.etsy.com/listing/4605322315",
+    "category": "Excel & Sheets Templates",
+    "image": "images/24-ultimate-budget-bundle.webp",
+    "featured": false
+  },
+  {
+    "folder": "25-printable-planner-bundle",
+    "title": "Printable Planner Bundle, 6 Minimalist Planners PDF, Undated & 2027 Planner, Budget Meal Habit Fitness Planner, Letter A4, Instant Download",
+    "short_title": "Printable Planner Bundle",
+    "price": "$14.00",
+    "etsy_url": "https://www.etsy.com/listing/4605322601",
+    "category": "Planners",
+    "image": "images/25-printable-planner-bundle.webp",
+    "featured": false
+  },
+  {
+    "folder": "26-wall-art-bundle",
+    "title": "Wall Art Bundle of 12 Prints, Boho Botanical Quote Mid Century Printable Wall Art, Sage Terracotta Gallery Wall Set, Digital Download",
+    "short_title": "Wall Art Bundle of 12 Prints",
+    "price": "$18.00",
+    "etsy_url": "https://www.etsy.com/listing/4605323169",
+    "category": "Wall Art",
+    "image": "images/26-wall-art-bundle.webp",
+    "featured": false
+  },
+  {
+    "folder": "27-client-onboarding-kit",
+    "title": "Client Onboarding Kit for Freelancers, Fillable Client Questionnaire, Welcome Letter, Project Scope & Timeline, Small Business Forms",
+    "short_title": "Client Onboarding Kit",
+    "price": "$14.00",
+    "etsy_url": "https://www.etsy.com/listing/4605351968",
+    "category": "Small Business Templates",
+    "image": "images/27-client-onboarding-kit.webp",
+    "featured": false
+  },
+  {
+    "folder": "28-resume-templates",
+    "title": "Resume Template Pack for Word, Modern Resume with Cover Letter & References Page, 2 Designs, Letter + A4, Editable Template",
+    "short_title": "Resume Template Pack",
+    "price": "$8.00",
+    "etsy_url": "https://www.etsy.com/listing/4605332875",
+    "category": "Small Business Templates",
+    "image": "images/28-resume-templates.webp",
+    "featured": false
+  },
+  {
+    "folder": "29-christmas-planner-2026",
+    "title": "Christmas Planner 2026 Printable, Holiday Gift List, Budget, Menu, Baking & Card List, December Calendar, Holiday Organizer",
+    "short_title": "Christmas Planner 2026",
+    "price": "$6.00",
+    "etsy_url": "https://www.etsy.com/listing/4605333315",
+    "category": "Planners",
+    "image": "images/29-christmas-planner-2026.webp",
+    "featured": false
+  },
+  {
+    "folder": "30-recipe-binder",
+    "title": "Recipe Binder Printable, Blank Recipe Pages, Recipe Book Template with Dividers, Kitchen Conversions, Meal Planner, Family Cookbook",
+    "short_title": "Recipe Binder",
+    "price": "$9.00",
+    "etsy_url": "https://www.etsy.com/listing/4605353764",
+    "category": "Planners",
+    "image": "images/30-recipe-binder.webp",
+    "featured": false
+  },
+  {
+    "folder": "31-wedding-signs-bundle",
+    "title": "Wedding Signs Bundle, 9 Printable Wedding Signs, Welcome Sign, Unplugged Ceremony, Cards & Gifts, Guest Book, Sage Green, 4 Sizes",
+    "short_title": "Wedding Signs Bundle",
+    "price": "$9.00",
+    "etsy_url": "https://www.etsy.com/listing/4605334871",
+    "category": "Party Printables",
+    "image": "images/31-wedding-signs-bundle.webp",
+    "featured": false
+  },
+  {
+    "folder": "32-bridal-shower-games",
+    "title": "Bridal Shower Games Bundle, 8 Printable Games, Word Scramble, Word Search, Find the Guest, Bridal Bingo, Sage Green, 5x7",
+    "short_title": "Bridal Shower Games Bundle",
+    "price": "$6.00",
+    "etsy_url": "https://www.etsy.com/listing/4605335225",
+    "category": "Party Printables",
+    "image": "images/32-bridal-shower-games.webp",
+    "featured": false
+  },
+  {
+    "folder": "33-goal-setting-workbook",
+    "title": "Goal Setting Workbook Printable, Fillable PDF Goal Planner, SMART Goals, Vision & Values, Habit Tracker, Life Balance Wheel",
+    "short_title": "Goal Setting Workbook",
+    "price": "$9.00",
+    "etsy_url": "https://www.etsy.com/listing/4605335895",
+    "category": "Planners",
+    "image": "images/33-goal-setting-workbook.webp",
+    "featured": false
+  },
+  {
+    "folder": "34-baby-milestone-cards",
+    "title": "Baby Milestone Cards Printable, 32 Monthly & First Milestone Cards, Gender Neutral Baby Shower Gift, Sage Green, 5x7",
+    "short_title": "Baby Milestone Cards",
+    "price": "$7.00",
+    "etsy_url": "https://www.etsy.com/listing/4605356442",
+    "category": "Party Printables",
+    "image": "images/34-baby-milestone-cards.webp",
+    "featured": false
+  },
+  {
+    "folder": "35-cleaning-schedule",
+    "title": "Cleaning Schedule Printable, Weekly Cleaning Checklist, Daily, Monthly & Seasonal Chores, Room by Room House Cleaning Planner",
+    "short_title": "Cleaning Schedule",
+    "price": "$5.00",
+    "etsy_url": "https://www.etsy.com/listing/4605356854",
+    "category": "Planners",
+    "image": "images/35-cleaning-schedule.webp",
+    "featured": false
+  },
+  {
+    "folder": "36-kids-chore-reward-charts",
+    "title": "Kids Chore Chart Printable, Reward Chart, Morning & Evening Routine Chart, Chore Charts by Age, Sticker Chart, Responsibility Chart",
+    "short_title": "Kids Chore & Reward Charts",
+    "price": "$4.50",
+    "etsy_url": "https://www.etsy.com/listing/4605337209",
+    "category": "Planners",
+    "image": "images/36-kids-chore-reward-charts.webp",
+    "featured": false
+  },
+  {
+    "folder": "37-alphabet-number-tracing",
+    "title": "Alphabet Tracing Worksheets, Letter and Number Tracing Printable, Preschool Handwriting Practice A-Z & 0-10, Kindergarten, Homeschool",
+    "short_title": "Alphabet & Number Tracing Worksheets",
+    "price": "$5.00",
+    "etsy_url": "https://www.etsy.com/listing/4605338301",
+    "category": "Planners",
+    "image": "images/37-alphabet-number-tracing.webp",
+    "featured": false
+  },
+  {
+    "folder": "38-planner-stickers",
+    "title": "Printable Planner Stickers, Functional Sticker Sheets, Print & Cut, Digital Planner Stickers PNG, Checklist, Header Labels, Sage",
+    "short_title": "Printable Planner Stickers",
+    "price": "$4.50",
+    "etsy_url": "https://www.etsy.com/listing/4605339125",
+    "category": "Planners",
+    "image": "images/38-planner-stickers.webp",
+    "featured": false
+  },
+  {
+    "folder": "39-digital-papers",
+    "title": "Sage Green Digital Paper Pack, 12 Seamless Patterns, Gingham, Polka Dot, Botanical, Boho Arches, Terracotta, Scrapbook Paper JPG",
+    "short_title": "Sage Green Digital Paper Pack",
+    "price": "$4.00",
+    "etsy_url": "https://www.etsy.com/listing/4605339707",
+    "category": "Party Printables",
+    "image": "images/39-digital-papers.webp",
+    "featured": false
+  },
+  {
+    "folder": "40-social-media-planner",
+    "title": "Social Media Content Planner, Fillable PDF Content Calendar, Post Planner, Small Business Marketing Planner, Content Creator",
+    "short_title": "Social Media Content Planner",
+    "price": "$6.00",
+    "etsy_url": "https://www.etsy.com/listing/4605340195",
+    "category": "Small Business Templates",
+    "image": "images/40-social-media-planner.webp",
+    "featured": false
+  },
+  {
+    "folder": "41-birthday-party-printables",
+    "title": "Birthday Party Printables, Happy Birthday Banner, Welcome Sign, Cupcake Toppers, Favor Tags, Trivia Game, Adult Birthday Decor, Sage Green",
+    "short_title": "Birthday Party Printables",
+    "price": "$7.00",
+    "etsy_url": "https://www.etsy.com/listing/4605340595",
+    "category": "Party Printables",
+    "image": "images/41-birthday-party-printables.webp",
+    "featured": false
+  },
+  {
+    "folder": "42-travel-planner",
+    "title": "Travel Planner Printable, Fillable PDF Trip Planner, Vacation Itinerary, Packing List, Travel Budget & Journal, US Letter + A4",
+    "short_title": "Travel Planner",
+    "price": "$6.00",
+    "etsy_url": "https://www.etsy.com/listing/4605341089",
+    "category": "Planners",
+    "image": "images/42-travel-planner.webp",
+    "featured": false
+  },
+  {
+    "folder": "43-pet-care-planner",
+    "title": "Pet Care Planner Printable, Fillable PDF Dog and Cat Health Record, Vet Visits, Vaccination Tracker, Pet Sitter Notes, Letter + A4",
+    "short_title": "Pet Care Planner",
+    "price": "$5.50",
+    "etsy_url": "https://www.etsy.com/listing/4605361456",
+    "category": "Planners",
+    "image": "images/43-pet-care-planner.webp",
+    "featured": false
+  },
+  {
+    "folder": "44-nursery-wall-art",
+    "title": "Nursery Wall Art Set of 3, Boho Rainbow Print, Moon and Stars, Hot Air Balloon, Gender Neutral Nursery Decor, Sage Printable Art",
+    "short_title": "Nursery Wall Art Set of 3",
+    "price": "$8.00",
+    "etsy_url": "https://www.etsy.com/listing/4605341995",
+    "category": "Wall Art",
+    "image": "images/44-nursery-wall-art.webp",
+    "featured": false
+  },
+  {
+    "folder": "45-classroom-posters",
+    "title": "Growth Mindset Classroom Posters Set of 3, Boho Classroom Decor, Positive Affirmation Prints, Teacher Printable Wall Art, Sage",
+    "short_title": "Growth Mindset Classroom Posters",
+    "price": "$5.00",
+    "etsy_url": "https://www.etsy.com/listing/4605342427",
+    "category": "Wall Art",
+    "image": "images/45-classroom-posters.webp",
+    "featured": false
+  },
+  {
+    "folder": "46-christmas-party-games",
+    "title": "Christmas Party Games Bundle, 12 Printable Games, Christmas Trivia, Family Game Night, Holiday Bingo, Word Scramble, Sage Green, Letter A4",
+    "short_title": "Christmas Party Games Bundle",
+    "price": "$6.50",
+    "etsy_url": "https://www.etsy.com/listing/4605533230/christmas-party-games-bundle-12",
+    "category": "Party Printables",
+    "image": "images/46-christmas-party-games.webp",
+    "featured": true,
+    "gallery": [
+      "images/46-christmas-party-games.webp",
+      "images/46-christmas-party-games-set.webp",
+      "images/46-christmas-party-games-trivia.webp",
+      "images/46-christmas-party-games-bingo.webp"
+    ]
+  },
+  {
+    "folder": "47-smb-bookkeeping-2027",
+    "title": "Small Business Bookkeeping Spreadsheet 2027, Excel Google Sheets, Profit and Loss Template, Etsy Fees, Mileage Tracker, Quarterly Tax",
+    "short_title": "Small Business Bookkeeping Spreadsheet 2027",
+    "price": "$14.99",
+    "etsy_url": "https://www.etsy.com/listing/4605546588/small-business-bookkeeping-spreadsheet",
+    "category": "Small Business Templates",
+    "image": "images/47-smb-bookkeeping-2027.webp",
+    "featured": true,
+    "gallery": [
+      "images/47-smb-bookkeeping-2027.webp",
+      "images/47-smb-bookkeeping-2027-pl.webp",
+      "images/47-smb-bookkeeping-2027-screenshot.webp",
+      "images/47-smb-bookkeeping-2027-tax.webp"
+    ]
+  }
+]

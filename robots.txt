@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shawnroy1988.github.io/sageandledgerdesigns/sitemap.xml
