@@ -219,14 +219,15 @@ def new_tab():
     return '<span class="visually-hidden"> (opens in a new tab)</span>'
 
 
-def gallery_html(item, depth, gallery_name):
+def gallery_html(item, depth, gallery_name, eager=False):
     prefix = "../" * depth
     images = item.get("gallery") or [item["image"]]
     if len(images) == 1:
         alt = GALLERY_ALT.get(images[0], item["short_title"] + " preview")
+        loading = "eager" if eager else "lazy"
         return f"""<div class="gallery gallery-single">
   <div class="gallery-stage">
-    <img class="slide" src="{prefix}{esc(images[0])}" alt="{esc(alt)}" width="1200" height="900">
+    <img class="slide" src="{prefix}{esc(images[0])}" alt="{esc(alt)}" width="1200" height="900" loading="{loading}" decoding="async">
   </div>
 </div>"""
 
@@ -240,13 +241,13 @@ def gallery_html(item, depth, gallery_name):
         radios.append(
             f'<input class="gallery-radio" type="radio" name="{esc(gallery_name)}" id="{esc(input_id)}"{checked}>'
         )
-        loading = "eager" if index == 0 else "lazy"
+        loading = "eager" if eager or index == 0 else "lazy"
         slides.append(
             f'<img class="slide" src="{prefix}{esc(image)}" alt="{esc(alt)}" width="1200" height="900" loading="{loading}" decoding="async">'
         )
         thumbs.append(
             f"""<label for="{esc(input_id)}">
-        <img src="{prefix}{esc(image)}" alt="" width="1200" height="900" loading="lazy" decoding="async">
+        <img src="{prefix}{esc(image)}" alt="" width="1200" height="900" loading="{loading}" decoding="async">
         <span class="visually-hidden">{esc(alt)}</span>
       </label>"""
         )
@@ -385,7 +386,7 @@ def render_home(products):
         features.append(
             f"""<article class="feature{flip}">
   <div class="feature-gallery">
-    {gallery_html(item, 0, "featured-" + item["folder"])}
+    {gallery_html(item, 0, "featured-" + item["folder"], eager=True)}
   </div>
   <div class="feature-copy">
     <p class="eyebrow">{esc(item["category"])}</p>
@@ -646,7 +647,7 @@ def render_product(item, products):
     <span aria-current="page">{esc(item["short_title"])}</span>
   </nav>
   <article class="product">
-    {gallery_html(item, 1, "product-" + item["folder"])}
+    {gallery_html(item, 1, "product-" + item["folder"], eager=True)}
     <div class="product-info">
       <p class="eyebrow">{esc(item["category"])}</p>
       <h1>{esc(item["short_title"])}</h1>
