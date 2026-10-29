@@ -7,7 +7,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 BASE = "https://shawnroy1988.github.io/sageandledgerdesigns"
-ETSY = "https://www.etsy.com/shop/SageAndLedgerDesigns"
+ETSY = "https://sageandledgerdesigns.etsy.com/"
 PINTEREST = "https://www.pinterest.com/shawnroy1988/"
 SHOP_NAME = "Sage & Ledger Designs"
 OG_IMAGE = f"{BASE}/brand/header.webp"
@@ -444,7 +444,7 @@ def render_home(products):
       <div id="kit-signup" class="kit-signup" data-kit-form="free-budget-printable">
         <div class="kit-signup-fallback">
           <div class="kit-field" aria-hidden="true"><span>Email address</span><span class="soon">Soon</span></div>
-          <a class="btn btn-ink" href="https://www.etsy.com/shop/SageAndLedgerDesigns" target="_blank" rel="noopener">Visit the Etsy shop<span class="visually-hidden"> (opens in a new tab)</span></a>
+          <a class="btn btn-ink" href="https://sageandledgerdesigns.etsy.com/" target="_blank" rel="noopener">Visit the Etsy shop<span class="visually-hidden"> (opens in a new tab)</span></a>
           <p class="form-note">No email is collected on this page. This button opens the shop.</p>
         </div>
       </div>

@@ -1,6 +1,6 @@
 # Sage & Ledger Designs
 
-Catalog site for the Etsy shop [SageAndLedgerDesigns](https://www.etsy.com/shop/SageAndLedgerDesigns). It is plain static HTML, CSS, and JavaScript. Open `index.html` in a browser, or from this folder run:
+Catalog site for the Etsy shop [SageAndLedgerDesigns](https://sageandledgerdesigns.etsy.com/). It is plain static HTML, CSS, and JavaScript. Open `index.html` in a browser, or from this folder run:
 
 ```bash
 python3 -m http.server
